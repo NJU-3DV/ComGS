@@ -1,0 +1,25 @@
+ComGS Repository License Notice
+===============================
+
+This repository contains code and assets under multiple licenses.
+
+No single license applies to the repository as a whole.
+
+The repository currently includes:
+
+1. Original ComGS components released under the MIT License.
+   See `LICENSE-MIT-COMGS.md`.
+
+2. Components derived from or based on Gaussian Splatting and related code,
+   which remain subject to the Gaussian Splatting License and its
+   non-commercial research-use restrictions.
+   See `LICENSE-GS.md`.
+
+3. Additional third-party components, submodules, model assets, and notices,
+   each of which may be subject to its own license terms.
+   See `LICENSE-NOTICES.md` and the license files retained in the
+   corresponding directories.
+
+By using, modifying, or distributing this repository, you are responsible for
+complying with the license terms that apply to each relevant file, directory,
+dependency, and asset.

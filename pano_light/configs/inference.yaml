@@ -1,0 +1,26 @@
+# pretrained model
+pretrained_model_name_or_path: "./checkpoints/stable-diffusion-2-1"
+pretrained_path_ev0: "./checkpoints/ev0"
+pretrained_path_ev25: "./checkpoints/ev25"
+pretrained_path_ev5: "./checkpoints/ev5"
+pretrained_vae_model_name_or_path: null 
+
+# prompt
+indoor_normal_prompt: "A realistic 360 degree panoramic indoor scene, overexposed, bright"
+indoor_dark_prompt: "A realistic 360 degree panoramic indoor scene, underexposed, dark"
+outdoor_normal_prompt: "A realistic 360 degree panoramic outdoor scene, overexposed, bright"
+outdoor_dark_prompt: "A realistic 360 degree panoramic outdoor scene, underexposed, dark"
+
+# datasets
+max_negative_ev: 5
+evs:
+  - -5
+  - -2.5
+  - 0
+soft_mask: False
+
+# Inference
+mixed_precision: "fp16"
+do_classifier_free_guidance: False
+revision: null
+variant: null
