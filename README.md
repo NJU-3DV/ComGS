@@ -5,8 +5,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-1E90FF?logo=githubpages&logoColor=white)](https://nju-3dv.github.io/projects/ComGS/)
 [![Dataset](https://img.shields.io/badge/Dataset-SynCom-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/datasets/yGaoJiany/SynCom)
 
-
-<video autoplay muted loop playsinline src="assets/teaser.mp4" title="ComGS"></video>
+https://github.com/user-attachments/assets/00a78fff-723c-4a40-b8ac-76ed0623e1a4
 
 ## Installation
 
